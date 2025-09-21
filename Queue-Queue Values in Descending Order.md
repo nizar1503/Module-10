@@ -22,7 +22,32 @@ To write a Python program to:
 7. Print the updated list.
 
 ## 🧪 Program: 
-
+```
+q = []
+n = int(input("Enter the number of elements to add to the queue: "))
+print("Enter the elements:")
+for _ in range(n):
+    val = int(input())
+    q.append(val)
+if len(q) >= 2:
+    q.pop(0)
+    q.pop(0)
+elif len(q) == 1:
+    q.pop(0)
+q.sort(reverse=True)
+print("Remaining elements in descending order:", q)
+```
 ### Output:
-
+```
+Enter the number of elements to add to the queue: 5
+Enter the elements:
+10
+30
+5
+20
+15
+Remaining elements in descending order: [20, 15, 5]
+```
 ## Result:
+Hence displayed values in descending order.
+
