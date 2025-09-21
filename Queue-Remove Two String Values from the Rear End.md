@@ -21,8 +21,31 @@ To write a Python program to:
 6. Display the updated list.
 
 ##  Program:
-Add Code Here
+# 🎯 AIM: List string handling — remove last two elements and display
+````
+q = []
+n = int(input("Enter the number of strings: "))
+print("Enter the strings:")
+for _ in range(n):
+    s = input()
+    q.append(s)
+if len(q) >= 2:
+    q.pop()
+    q.pop()
+elif len(q) == 1:
+    q.pop()
+print("Updated list after removing last two elements:", q)
+````
 
 ### Output:
-
+```
+Enter the number of strings: 4
+Enter the strings:
+apple
+banana
+cherry
+date
+Updated list after removing last two elements: ['apple', 'banana']
+```
 ## Result:
+Hence removed last two elements and displayed.
