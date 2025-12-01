@@ -33,14 +33,7 @@ while stack:
 print("Reversed stack elements:", reverse)
 ```
 ## 🧪 Sample Input and Output
-```
-Enter number of elements to push onto the stack: 5
-Enter element 1: 10
-Enter element 2: 20
-Enter element 3: 30
-Enter element 4: 40
-Enter element 5: 50
-Reversed stack elements: [50, 40, 30, 20, 10]
-```
+<img width="401" height="388" alt="image" src="https://github.com/user-attachments/assets/ba012148-394b-40ac-9fd9-3a03a38e3c22" />
+
 ## Result
 Hence reversed the values in stack.
