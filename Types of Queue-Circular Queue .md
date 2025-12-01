@@ -93,14 +93,6 @@ print("Removed values:", removed_values)
 
 ```
 ### Output:
-```
-Enter 3 values to enqueue:
-Value: 10
-Value: 20
-Value: 30
-
-Removing 3 values from the queue:
-Removed values: ['10', '20', '30']
-```
+<img width="623" height="390" alt="image" src="https://github.com/user-attachments/assets/07964b7f-b2db-47aa-b8b1-a0e3b7c8b257" />
 ## Result:
 Hence implementation of a Circular Queue id done.
