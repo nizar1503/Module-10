@@ -38,14 +38,7 @@ print("Updated list after removing last two elements:", q)
 ````
 
 ### Output:
-```
-Enter the number of strings: 4
-Enter the strings:
-apple
-banana
-cherry
-date
-Updated list after removing last two elements: ['apple', 'banana']
-```
+<img width="1187" height="399" alt="image" src="https://github.com/user-attachments/assets/f0dfba51-9835-4730-bdb0-ebea25288342" />
+
 ## Result:
 Hence removed last two elements and displayed.
