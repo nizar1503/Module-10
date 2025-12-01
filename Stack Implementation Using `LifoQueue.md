@@ -39,21 +39,7 @@ while not stack.empty():
     print(stack.get())
 ```
 ## 🧪 Sample Input and Output
-```
-Enter number of elements to push (max 7): 5
-Enter value 1: apple
-Enter value 2: banana
-Enter value 3: cherry
-Enter value 4: date
-Enter value 5: elderberry
-Is the stack full? False
+<img width="567" height="433" alt="image" src="https://github.com/user-attachments/assets/e0d15576-4ce3-49dd-a015-d5cb2b0e4952" />
 
-Stack elements in LIFO order:
-elderberry
-date
-cherry
-banana
-apple
-```
 ## Result:
 Hence Stack Implementation using LifoQueue with LIFO behavior is done.
