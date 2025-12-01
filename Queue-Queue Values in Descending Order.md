@@ -38,16 +38,8 @@ q.sort(reverse=True)
 print("Remaining elements in descending order:", q)
 ```
 ### Output:
-```
-Enter the number of elements to add to the queue: 5
-Enter the elements:
-10
-30
-5
-20
-15
-Remaining elements in descending order: [20, 15, 5]
-```
+<img width="1183" height="342" alt="image" src="https://github.com/user-attachments/assets/e958d025-d1ec-44ef-8ac6-1c150457a378" />
+
 ## Result:
 Hence displayed values in descending order.
 
